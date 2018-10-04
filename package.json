@@ -6,7 +6,9 @@
   "scripts": {},
   "author": "Nicholas",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "eslint": "^5.6.1"
+  },
   "directories": {
     "lib": "lib"
   },
